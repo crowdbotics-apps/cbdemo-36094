@@ -6,4 +6,10 @@ const slackServices = axios.create({
 function slackservices_get__read(payload) {
   return slackServices.get(`/`)
 }
-export const apiService = { slackservices_get__read }
+function slackservices_post_currentjson_create(payload) {
+  return slackServices.post(`/current.json`, payload.data)
+}
+export const apiService = {
+  slackservices_get__read,
+  slackservices_post_currentjson_create
+}
