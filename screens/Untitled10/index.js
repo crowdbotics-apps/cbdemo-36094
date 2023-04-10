@@ -1,8 +1,8 @@
 import React from "react";
 import { Text, StyleSheet, SafeAreaView } from "react-native";
 
-const Untitled10 = () => {
-  return <SafeAreaView style={styles.safeArea}>
+const Home = () => {
+  return <SafeAreaView>
       <Text></Text>
     </SafeAreaView>;
 };
@@ -13,4 +13,4 @@ const styles = StyleSheet.create({
     backgroundColor: "#ec7171"
   }
 });
-export default Untitled10;
+export default Home;

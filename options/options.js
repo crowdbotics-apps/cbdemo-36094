@@ -2,7 +2,7 @@ export const globalOptions = {
   "name": "cbdemo_36094",
   "url": "https://cbdemo_36094.botics.co",
   "api": "https://cbdemo_36094.botics.co/api/v1",
-  "initialRoute": "Login"
+  "initialRoute": "Untitled13"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
