@@ -1,14 +1,8 @@
 import React from "react";
-import { StyleSheet, ScrollView, SafeAreaView } from "react-native";
+import { StyleSheet, SafeAreaView } from "react-native";
 
 const Untitled10 = () => {
   return <SafeAreaView style={styles.safeArea}>
-      <ScrollView contentContainerStyle={{
-      backgroundColor: "#f0f0f1",
-      padding: 10,
-      position: "relative",
-      flex: 1
-    }}></ScrollView>
     </SafeAreaView>;
 };
 
