@@ -1,0 +1,13 @@
+pyproject.toml
+setup.py
+cb_privacy_policy.egg-info/PKG-INFO
+cb_privacy_policy.egg-info/SOURCES.txt
+cb_privacy_policy.egg-info/dependency_links.txt
+cb_privacy_policy.egg-info/top_level.txt
+privacy_policy/__init__.py
+privacy_policy/admin.py
+privacy_policy/apps.py
+privacy_policy/models.py
+privacy_policy/serializers.py
+privacy_policy/urls.py
+privacy_policy/viewsets.py
