@@ -1110,7 +1110,7 @@
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1119,6 +1119,11 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
+"@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
   dependencies:
     react-native-render-html "^5.1.0"
