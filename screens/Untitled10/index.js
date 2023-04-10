@@ -3,7 +3,7 @@ import { Text, StyleSheet, SafeAreaView } from "react-native";
 
 const Home = () => {
   return <SafeAreaView>
-      <Text></Text>
+      <Text>ZxzxZx</Text>
     </SafeAreaView>;
 };
 
