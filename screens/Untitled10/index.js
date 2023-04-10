@@ -1,8 +1,9 @@
 import React from "react";
-import { StyleSheet, SafeAreaView } from "react-native";
+import { Text, StyleSheet, SafeAreaView } from "react-native";
 
 const Untitled10 = () => {
   return <SafeAreaView style={styles.safeArea}>
+      <Text></Text>
     </SafeAreaView>;
 };
 
