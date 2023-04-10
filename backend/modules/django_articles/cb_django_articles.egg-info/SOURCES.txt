@@ -1,0 +1,14 @@
+pyproject.toml
+setup.py
+articles/__init__.py
+articles/admin.py
+articles/apps.py
+articles/models.py
+articles/options.py
+articles/serializers.py
+articles/urls.py
+articles/viewsets.py
+cb_django_articles.egg-info/PKG-INFO
+cb_django_articles.egg-info/SOURCES.txt
+cb_django_articles.egg-info/dependency_links.txt
+cb_django_articles.egg-info/top_level.txt
