@@ -1125,7 +1125,7 @@
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/chat@file:./modules/chat":
   version "1.1.0"
   dependencies:
     is-url "^1.2.4"
@@ -1138,6 +1138,13 @@
     react-native-video "5.2.0"
     uuid "^8.3.2"
     zustand "^3.5.13"
+
+"@modules/live-camera-filters@file:./modules/live-camera-filters/":
+  version "1.0.0"
+  dependencies:
+    "@react-native-community/cameraroll" "^4.1.2"
+    react-native-filter-camera "0.1.18"
+    react-native-vector-icons "^9.2.0"
 
 "@modules/login@file:./modules/login":
   version "1.0.0"
@@ -1197,6 +1204,11 @@
   integrity sha512-HKhMvjpA5/YzNMkcY3qeWLdTtUrtJe243knHNNYe1c0IplX69hZyiw7DjFwAgxPG9+YvzHDHliqPV+mBNOv+cQ==
   dependencies:
     merge-options "^3.0.4"
+
+"@react-native-community/cameraroll@^4.1.2":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@react-native-community/cameraroll/-/cameraroll-4.1.2.tgz#489c6bb6137571540d93c543d5fcf8c652b548ec"
+  integrity sha512-jkdhMByMKD2CZ/5MPeBieYn8vkCfC4MOTouPpBpps3I8N6HUYJk+1JnDdktVYl2WINnqXpQptDA2YptVyifYAg==
 
 "@react-native-community/checkbox@0.5.10":
   version "0.5.10"
@@ -6159,6 +6171,11 @@ react-native-emoji-selector@0.2.0:
   integrity sha512-+rPPWG5vl5AexdH8udEwtzdq9QUGD6kp+dQ8C/459d3ScM0S3UnT/qAvhmpsTgCbgjpdwiJIcrKNxKmGEDb15g==
   dependencies:
     emoji-datasource "^6.0.0"
+
+react-native-filter-camera@0.1.18:
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/react-native-filter-camera/-/react-native-filter-camera-0.1.18.tgz#0d78f43df31dbb7790168ac7690f8ea21f26cb06"
+  integrity sha512-AlMisBq4ZihoBqQRwkMSB+RtZ7Qdq75aw7tGdAMIKvsyl2sOX8t22UxDf07QeKqqJJ0J1PUk6NXs06eo/JGJkQ==
 
 react-native-fs@2.19.0:
   version "2.19.0"

@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [terms-and-conditions]()
 - [react-native-chat](modules/chat)
+- [react-native-live-camera-filters](modules/live-camera-filters)
 
 # Getting started: Frontend
 
