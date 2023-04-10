@@ -3,10 +3,10 @@ import { StyleSheet, ScrollView, SafeAreaView } from "react-native";
 
 const Untitled10 = () => {
   return <SafeAreaView style={styles.safeArea}>
-        <ScrollView contentContainerStyle={{
-      backgroundColor: '#f0f0f1',
+      <ScrollView contentContainerStyle={{
+      backgroundColor: "#f0f0f1",
       padding: 10,
-      position: 'relative',
+      position: "relative",
       flex: 1
     }}></ScrollView>
     </SafeAreaView>;
@@ -14,7 +14,7 @@ const Untitled10 = () => {
 
 const styles = StyleSheet.create({
   safeArea: {
-    height: '100%'
+    height: "100%"
   }
 });
 export default Untitled10;
