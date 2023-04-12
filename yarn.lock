@@ -1122,9 +1122,6 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/articles@file:./modules/articles":
-  version "1.0.0"
-
 "@modules/chat@file:./modules/chat":
   version "1.1.0"
   dependencies:
