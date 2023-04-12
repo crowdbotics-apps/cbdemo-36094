@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "aaa82f5536e82ec4ec7cfe9d4f63738b8dccced6a218330dab0b9a0a61970ede"
+            "sha256": "6d36ee3b31305dbf40910894ebed2a38d7b4e6feb823efcfb6fbd9a8d4e7ae06"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,10 +55,6 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.3.0"
-        },
-        "cb-terms-and-conditions": {
-            "editable": true,
-            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [
