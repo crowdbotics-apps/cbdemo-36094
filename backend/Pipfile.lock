@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3baba40b3d7d6f4324726c5c8b803b047c5e857364754799d7c3d89634ffe7cc"
+            "sha256": "09bd22e7ac5b6820806614797c7198794dcfa82942fcee031aa5a8c2fbabf5cf"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,10 +59,6 @@
         "cb-django-articles": {
             "editable": true,
             "path": "./modules/django_articles"
-        },
-        "cb-privacy-policy": {
-            "editable": true,
-            "path": "./modules/privacy_policy"
         },
         "cb-terms-and-conditions": {
             "editable": true,
